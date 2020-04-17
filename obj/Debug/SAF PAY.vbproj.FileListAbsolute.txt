@@ -1,0 +1,45 @@
+c:\users\irene\documents\visual studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\SAF PAY.exe.config
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\SAF PAY.exe
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\SAF PAY.pdb
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\SAF PAY.xml
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF PAY.vbprojResolveAssemblyReference.cache
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.MainPage.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.Resources.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.NewEmpForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF PAY.vbproj.GenerateResource.Cache
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF PAY.exe
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF PAY.xml
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF PAY.pdb
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.ContsDedsForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.NewPayDayForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.ProcessPayrollForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AdminForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.ReportsForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.ProcessedPayrollForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.SingleEmpProcessPayForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AddEmpToProcessPayrollForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.PayrollRawFactForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.MainForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\MySql.Data.dll
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\Google.Protobuf.dll
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\Renci.SshNet.dll
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\bin\Debug\MySql.Data.xml
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AccessControlForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.EmployeeForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.MainPageForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.PayHeadCreationForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.FormulaForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AddPayHeadForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.FormulaTypeSelectionForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.PayrollForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AddEmployeeOrGroupForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.PayHeadsForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.SalarySetupStartTypeFrom.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.SalaryDetailsConfiguartionForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.SalaryDetailsSetupForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.EmployeeSetupForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.EditSetupForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.AttendaceOrProductionVoucherForm.resources
+C:\Users\irene\Documents\Visual Studio 2015\Projects\SAF PAY\SAF PAY\obj\Debug\SAF_PAY.SelectVoucherTypeForm.resources
